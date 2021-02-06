@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="add_widget">Add widget</string>
+    <string name="action1">com.example.myapplication.action1</string>
+    <string name="playMusic">com.example.myapplication.playMusic</string>
+    <string name="musicstop">com.example.myapplication.musicstop</string>
+    <string name="musicnext">com.example.myapplication.musicnext</string>
+</resources>
